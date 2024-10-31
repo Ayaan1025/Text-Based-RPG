@@ -18,6 +18,6 @@ Starting the Game: Launch the game and select from options to create an account,
 Gameplay: After each battle, choose whether to continue fighting, visit the store to buy upgrades, or exit.  
 Victory: Defeat all villains to complete the game.
 ## Contributing
-If you'd like to make any changes, let me know.
+If you have suggestions for improvements, feel free to fork the repository, create an issue, or submit a pull request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
